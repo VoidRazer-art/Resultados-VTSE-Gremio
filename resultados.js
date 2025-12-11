@@ -41,4 +41,5 @@ function atualizar() {
 
 atualizar();
 
-setInterval(atualizar, 2000);
+setInterval(atualizar, 10000);
+
